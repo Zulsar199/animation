@@ -17,14 +17,14 @@ body {
   animation: to-let 40s linear infinite;
 }
 .cloud {
- width: 100%;
+  width: 100%;
 }
 .cloud img {
   opacity: 0.5;
 }
 @keyframes to-let {
   0% {
-    transform: translateX(1200px);
+    transform: translateX(1800px);
   }
   100% {
     transform: translateX(0);
